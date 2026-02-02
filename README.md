@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+### Cytometry in R - Starter Questions
+
+I am a cancer biologist who just started his research lab at the University of North Texas. I am interested in learning how to use R to analyze flow cytometry data.
+
+My Favorite Fluorophore/Metal-Isotope: Brilliant Violet 421
+
+Previous Coding Experience: Copying solution from Stach Overflow
+
+What I Hope to Get From This Course: A seamless way to analyze .fcs files using R.
+
 <!--
 **isohal/isohal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
